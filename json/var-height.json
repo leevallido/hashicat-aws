@@ -1,0 +1,20 @@
+{
+  "data": {
+    "type":"vars",
+    "attributes": {
+      "key":"height",
+      "value":"5000",
+      "category":"terraform",
+      "hcl":false,
+      "sensitive":false
+    },
+    "relationships": {
+      "workspace": {
+        "data": {
+          "id":"ws-fZL22eW1Qi5WpRFM",
+          "type":"workspaces"
+        }
+      }
+    }
+  }
+}
